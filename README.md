@@ -1,7 +1,5 @@
 # mlcommons-uva
 
-## Hello I was here
-
 ## Team
 
 Role | Name | Academic background | e-mail
