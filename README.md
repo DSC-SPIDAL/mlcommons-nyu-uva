@@ -26,7 +26,15 @@ TBD
 
 ## Requirements
 
-* LaTeX paper in overleaf (https://www.overleaf.com/project/634d9954592bab690b6d133d)
+* LaTeX paper in overleaf (<https://www.overleaf.com/project/634d9954592bab690b6d133d>)
+
+## Communication
+
+* Google Groups: <https://groups.google.com/g/nyu-uva-mlcommons>
+* Discord: upon request
+* LaTeX paper in overleaf (<https://www.overleaf.com/project/634d9954592bab690b6d133d>)
+* GitHub <https://github.com/laszewsk/mlcommons-nyu-uva> which is forked at <https://github.com/DSC-SPIDAL/mlcommons-nyu-uva>
+
 
 ## Design
 
@@ -37,3 +45,6 @@ TBD
 ## Conclusion
 
 ## References
+
+* cloudmesh/cloudmesh-cc: https://github.com/cloudmesh/cloudmesh-cc
+* cyberaide/paper-cloudmesh-cc: https://github.com/cyberaide/paper-cloudmesh-cc
